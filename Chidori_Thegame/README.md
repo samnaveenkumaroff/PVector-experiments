@@ -80,7 +80,7 @@ This project helped reinforce key vector programming concepts like:
 ## ✨ Credits
 
 * Designed and programmed by Sam Naveenkumar V
-* Inspired by Naruto’s iconic Chidori technique
+* Inspired by Saskae’s iconic Chidori technique
 * Built with love using Processing and `PVector`
 
 ---
