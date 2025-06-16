@@ -71,9 +71,11 @@ This project helped reinforce key vector programming concepts like:
 ---
 
 ## 📸 Preview
+![ss1](https://github.com/user-attachments/assets/5bbce98a-9c9f-4c7a-8451-886f10319cad)
+Charge Attack with space bar 
 
-![ss1](https://github.com/user-attachments/assets/799dc349-f718-4865-acee-19c294e3c5ad)
-![ss2](https://github.com/user-attachments/assets/0185d79b-a89c-4b53-b115-bf4977206f10)
+![ss2](https://github.com/user-attachments/assets/748dc3c7-3c3f-44f3-afef-8da3ecfaa0bd)
+Flyoff animation
 
 ---
 
