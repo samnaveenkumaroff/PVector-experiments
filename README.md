@@ -1,7 +1,7 @@
 # 🌀 PVector Experiments
 
 A curated collection of creative simulations and generative AI explorations using `PVector` in **Processing (Python Mode)**.
-
+Visualizer
 This repository showcases my journey through **vector mathematics**, **particle systems**, and **autonomous motion**, laying the foundation for deeper experiments in **Generative AI**, **creative coding**, and **interactive systems**.
 
 ---
